@@ -2,28 +2,28 @@
     "products": [
     {
     "id": 1,
-    "title": "Ноутбук ASUS VivoBook 15",
-    "price": 45000,
-    "description": "15.6 дюймов, Intel Core i5, 8 ГБ ОЗУ, 512 ГБ SSD",
-    "image": "https://via.placeholder.com/150",
+    "title": "Видеокарта Gigabyte RTX4060",
+    "price": 37000,
+    "description": "WINDFORCE OC 8GB GDDR6 128-bit DPx2 HDMIx2 2FAN RTL",
+    "image": "https://avatars.mds.yandex.net/get-mpic/6439030/img_id1665546804936709012.jpeg/optimize",
     "category": "electronics",
     "rating": 4.7
     },
     {
     "id": 2,
-    "title": "Смартфон Samsung Galaxy S21",
-    "price": 60000,
-    "description": "6.2 дюймов, 128 ГБ, Phantom Gray",
-    "image": "https://via.placeholder.com/150",
+    "title": "Смартфон Samsung Galaxy S25 Ultra",
+    "price": 90000,
+    "description": "12/512 ГБ, Dual: nano SIM + eSIM, серый",
+    "image": "https://avatars.mds.yandex.net/get-mpic/5235967/img_id3469387316394290689.png/optimize",
     "category": "electronics",
     "rating": 4.8
     },
     {
     "id": 3,
-    "title": "Наушники Sony WH-1000XM4",
-    "price": 25000,
-    "description": "Беспроводные, шумоподавление, черный",
-    "image": "https://via.placeholder.com/150",
+    "title": "Кофеварка Kitfort",
+    "price": 10000,
+    "description": "КТ-7125-3 лавандовый",
+    "image": "https://avatars.mds.yandex.net/get-mpic/12306721/2a0000018d0242296461f4572d1933310f14/optimize",
     "category": "electronics",
     "rating": 4.9
     },
